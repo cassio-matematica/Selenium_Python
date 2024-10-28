@@ -134,6 +134,7 @@ Após a execução dos testes, revise os relatórios gerados para identificar po
 Para mais informações sobre o Selenium e suas funcionalidades, consulte a [documentação oficial do Selenium](https://www.selenium.dev/documentation/).
 
 📞 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassio-matematica/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassio.matematica@gmail.com)
